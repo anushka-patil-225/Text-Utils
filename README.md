@@ -1,5 +1,8 @@
-# Text-Utils
+# React + Vite
 
-• Developed a user-friendly text utility web app using React, providing real-time text conversion and analysis.
-• Integrated a feature to count the number of words and characters in the text, providing instant feedback to the user.
-• Implemented functionality to convert text between uppercase and lowercase seamlessly.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
